@@ -1,4 +1,11 @@
-## Hi there 👋
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJsejdhNDR2MXc0c2t1Y3c5NThpaTU1Z2lydDZwbDBlOHR4YndsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XfhzPjLDRbGXwAcuiP/giphy.gif" width="100" align="center"/> 🌟 Welcome to my GitHub Profile! 🌟
+
+![Banner de github](banner-github.jpg)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardopalomino23/)
+
+Hello there! 👋 I'm 25 years old and currently studying Computer Science at the University of Buenos Aires (UBA). I’m also a Fullstack Developer with experience using frameworks such as Bootstrap, Django, and Flask. Recently, I completed a QA Manual Tester course, where I gained knowledge in creating test cases, reporting bugs, and software quality control.
+
+This is where I share my coding journey, projects, and a little piece of my passion for technology. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to connect.
 
 <!--
 **Leopq23/Leopq23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
